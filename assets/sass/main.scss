@@ -1,0 +1,12 @@
+body{
+    background-color: gray;
+}
+@import "utils/__helper";
+@import "utils/__mixin";
+@import "utils/__variable";
+@import "base/__reset";
+@import "base/__typography";
+@import "layouts/__topbar";
+@import "layouts/__header";
+@import "pages/__home";
+
